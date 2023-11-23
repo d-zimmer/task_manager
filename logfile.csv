@@ -1,0 +1,10 @@
+Time: 2023-11-23 17:43:02, Script Name: log_manager.py, PID: 11960, Tarefa agendada: teste.py em 2023-11-23 17:44:02.861117
+Time: 2023-11-23 17:43:02, Script Name: log_manager.py, PID: 11960, Tarefa agendada: teste2.py em 2023-11-23 17:44:02.886135
+Time: 2023-11-23 17:44:58, Script Name: log_manager.py, PID: 17260, Tarefa agendada: teste.py em 2023-11-23 17:45:57.989202
+Time: 2023-11-23 17:44:58, Script Name: log_manager.py, PID: 17260, Tarefa agendada: teste2.py em 2023-11-23 17:45:58.013012
+Time: 2023-11-23 17:44:58, Script Name: log_manager.py, PID: 17260, Tarefa agendada: teste3.py em 2023-11-23 17:45:58.025420
+Time: 2023-11-23 17:47:27, Script Name: log_manager.py, PID: 10384, Tarefa agendada: teste.py em 2023-11-23 17:48:27.597308
+Time: 2023-11-23 17:47:27, Script Name: log_manager.py, PID: 10384, Tarefa agendada: teste2.py em 2023-11-23 17:48:27.620325
+Time: 2023-11-23 17:50:11, Script Name: log_manager.py, PID: 21488, Tarefa agendada: teste.py em 2023-11-23 17:51:11.685682
+Time: 2023-11-23 17:50:11, Script Name: log_manager.py, PID: 21488, Tarefa agendada: teste2.py em 2023-11-23 17:51:11.707802
+Time: 2023-11-23 17:50:11, Script Name: log_manager.py, PID: 21488, Erro ao agendar tarefa (teste3.py): Script teste3.py n�o encontrado
